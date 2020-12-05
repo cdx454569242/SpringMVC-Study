@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day01_start" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day02_fileUpLoad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day02_response" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day03_SSM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/day02_exception" vcs="Git" />
+  </component>
+</project>
